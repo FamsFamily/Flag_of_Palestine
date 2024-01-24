@@ -2,7 +2,7 @@ import turtle
 
 t = turtle.Turtle()
 s = turtle.Screen()
-s.title(Bendera Palestina)
+s.title("Bendera Palestina")
 t.speed(5)
 
 t.color(0, 151, 54)
