@@ -4,6 +4,7 @@ t = turtle.Turtle()
 s = turtle.Screen()
 s.title("Bendera Palestina")
 t.speed(5)
+t.colormode(255)
 
 t.color(0, 151, 54)
 t.up()
